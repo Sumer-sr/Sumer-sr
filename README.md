@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sumer-sr
 - 👀 I’m interested in ( working on complex projects )
 - 🌱 I’m currently learning ( java script)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me ...
 
 <!---
